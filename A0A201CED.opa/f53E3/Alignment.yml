@@ -1,0 +1,16 @@
+segment_sources:
+  I13EE6D6D:
+    type: origin_type
+    relation: translation
+    language: en
+  I549742AA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6d49087f0a2c49cf8e1218bde884200c:
+    I13EE6D6D: d88dd9565cab4253a42c1f90d5dbbbc3
+    I549742AA: a68be8e63f24448ab7327bbfdc4170b5
+  026e6bc428254276b123987b45b811d0:
+    I13EE6D6D: 2343982416e84ffa8488b2513be067db
+    I549742AA: 2afeb92773c0411bb9b136899367b593
